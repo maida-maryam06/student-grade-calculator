@@ -136,9 +136,10 @@ test_10_add_student_validation (test_grade_manager.TestStudentGradeManager.test_
 add_student should reject empty names and empty IDs. ... ok
 
 ----------------------------------------------------------------------
-Ran 10 tests in 0.023s
+Ran 10 tests in 0.174s
 
 OK
+
 ```
 
 (The task asked for at least 8 tests; this suite includes 10 — 8 mapping
